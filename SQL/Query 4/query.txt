@@ -1,0 +1,4 @@
+SELECT person.Email
+FROM Person AS person
+GROUP BY person.Email
+HAVING COUNT(*) > 1

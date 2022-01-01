@@ -1,0 +1,4 @@
+SELECT employee.Name AS Employee
+FROM Employee AS employee
+LEFT JOIN Employee AS manager ON employee.managerId = manager.Id
+WHERE employee.Salary > manager.Salary;

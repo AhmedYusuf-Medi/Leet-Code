@@ -1,0 +1,8 @@
+SELECT customer.name AS Customers
+FROM Customers AS customer
+WHERE NOT EXISTS
+(
+SELECT customerOrder.customerId
+FROM Orders AS customerOrder
+WHERE customer.id = customerOrder.customerId
+);
