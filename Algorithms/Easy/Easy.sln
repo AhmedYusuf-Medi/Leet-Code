@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Roman to Integer", "03.R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.1Integer to Roman", "3.1Integer to Roman\3.1Integer to Roman.csproj", "{96BCC40D-3358-4432-A578-ACE8834C8E07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Linked List Cycle", "04.Linked List Cycle\04.Linked List Cycle.csproj", "{2BB822F7-DFA8-4AF6-8630-26F855DE859F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Linked List Cycle", "04.Linked List Cycle\04.Linked List Cycle.csproj", "{2BB822F7-DFA8-4AF6-8630-26F855DE859F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Peaks", "05.Peaks\05.Peaks.csproj", "{3B499E28-A8EF-4E79-B26A-C292C268CD59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{2BB822F7-DFA8-4AF6-8630-26F855DE859F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BB822F7-DFA8-4AF6-8630-26F855DE859F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BB822F7-DFA8-4AF6-8630-26F855DE859F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B499E28-A8EF-4E79-B26A-C292C268CD59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B499E28-A8EF-4E79-B26A-C292C268CD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B499E28-A8EF-4E79-B26A-C292C268CD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B499E28-A8EF-4E79-B26A-C292C268CD59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

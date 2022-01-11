@@ -1,9 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace _03.Roman_to_Integer
+﻿namespace _03.Roman_to_Integer
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     class Program
     {
         static void Main(string[] args)

@@ -1,8 +1,8 @@
-﻿using System;
-using System.Text;
-
-namespace _3._1Integer_to_Roman
+﻿namespace _3._1Integer_to_Roman
 {
+    using System;
+    using System.Text;
+
     class Program
     {
         static void Main(string[] args)
