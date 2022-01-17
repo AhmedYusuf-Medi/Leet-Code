@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_06.PascalsTriangle</RootNamespace>
+    <RootNamespace>_07.N_aryTreePostorderTraversal</RootNamespace>
   </PropertyGroup>
 
 </Project>

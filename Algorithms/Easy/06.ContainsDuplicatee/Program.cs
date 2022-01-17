@@ -1,4 +1,4 @@
-﻿namespace _06.PascalsTriangle
+﻿namespace _06.ContainsDuplicatee
 {
     using System;
 
@@ -20,7 +20,7 @@
             int currentNumber = 0;
             int nextNumber = 0;
 
-            for (int i = 0; i < nums.Length -1; i++)
+            for (int i = 0; i < nums.Length - 1; i++)
             {
                 currentNumber = nums[i];
                 nextNumber = nums[i + 1];
